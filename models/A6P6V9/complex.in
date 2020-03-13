@@ -1,0 +1,18 @@
+source leaprc.protein.ff14SB
+source leaprc.gaff2
+source leaprc.water.tip3p
+
+CBDAS_PDB = loadPDB A6P6V9-swissdockd-target-fixed-4amber.pdb
+
+FAD_MOL = loadmol2 FAD.gaff.mol2
+CBGA_MOL = loadmol2 CBGA.gaff.mol2
+
+loadamberparams FAD.frcmod
+loadamberparams CBGA.frcmod
+
+complex = combine {CBDAS_PDB CBGA_MOL FAD_MOL}
+
+solvateBox complex TIP3PBOX 10.0 iso
+addIonsRand complex  Na+ 0
+saveamberparm complex complex.prmtop complex.inpcrd
+quit

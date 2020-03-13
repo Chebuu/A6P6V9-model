@@ -1,1 +1,0 @@
-pychimera --gui
