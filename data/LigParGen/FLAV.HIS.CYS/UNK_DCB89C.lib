@@ -1,0 +1,152 @@
+#Remarks LigParGen generated for Q (by Leela Dodda)
+
+{UNK}
+[atoms]
+       1    C00   C800  -0.2126 
+       2    C01   C801  -0.0654 
+       3    C02   C802  -0.0458 
+       4    C03   C803   0.0946 
+       5    N04   N804  -0.4256 
+       6    C05   C805   0.0631 
+       7    N06   N806  -0.2944 
+       8    C07   C807  -0.0751 
+       9    C08   C808  -0.1018 
+      10    C09   C809   0.1342 
+      11    N0A   N810  -0.9118 
+      12    C0B   C811   0.5076 
+      13    O0C   O812  -0.4259 
+      14    O0D   O813  -0.5371 
+      15    C0E   C814  -0.1757 
+      16    C0F   C815   0.1896 
+      17    C0G   C816  -0.0553 
+      18    N0H   N817  -0.1491 
+      19    C0I   C818   -0.052 
+      20    C0J   C819   0.7363 
+      21    O0K   O820  -0.4106 
+      22    N0M   N821  -1.1161 
+      23    H0N   H822   0.5533 
+      24    C0O   C823   0.8809 
+      25    O0P   O824  -0.4208 
+      26    N0Q   N825  -0.7385 
+      27    C0R   C826   0.5455 
+      28    N0S   N827  -0.4665 
+      29    C0T   C828  -0.0201 
+      30    C0U   C829   0.0309 
+      31    S0V   S830  -0.1731 
+      32    C0W   C831   0.1216 
+      33    N0X   N832  -0.8399 
+      34    C0Y   C833   0.5188 
+      35    O0Z   O834  -0.4228 
+      36    O10   O835  -0.5251 
+      37    H11   H836   0.1157 
+      38    H12   H837   0.1157 
+      39    H13   H838   0.1157 
+      40    H14   H839   0.1233 
+      41    H15   H840   0.1233 
+      42    H16   H841   0.2284 
+      43    H17   H842   0.2138 
+      44    H18   H843   0.1488 
+      45    H19   H844   0.3527 
+      46    H1A   H845   0.3527 
+      47    H1B   H846   0.4789 
+      48    H1C   H847   0.1617 
+      49    H1D   H848   0.1254 
+      50    H1E   H849   0.1254 
+      51    H1F   H850   0.1254 
+      52    H1G   H851   0.2241 
+      53    H1H   H852   0.3371 
+      54    H1I   H853   0.3371 
+      55    H1J   H854   0.4793 
+[bonds]
+     C01      C00
+     C02      C01
+     C03      C02
+     N04      C03
+     C05      N04
+     N06      C05
+     C07      N06
+     C08      N04
+     C09      C08
+     N0A      C09
+     C0B      C09
+     O0C      C0B
+     O0D      C0B
+     C0E      C02
+     C0F      C0E
+     C0G      C0F
+     N0H      C0G
+     C0I      N0H
+     C0J      C0I
+     O0K      C0J
+     N0M      C0J
+     H0N      N0M
+     C0O      N0M
+     O0P      C0O
+     N0Q      C0O
+     C0R      C0I
+     N0S      C0F
+     C0T      N0S
+     C0U      C01
+     S0V      C0U
+     C0W      S0V
+     N0X      C0W
+     C0Y      C0W
+     O0Z      C0Y
+     O10      C0Y
+     H11      C00
+     H12      C00
+     H13      C00
+     H14      C03
+     H15      C03
+     H16      C05
+     H17      C07
+     H18      C09
+     H19      N0A
+     H1A      N0A
+     H1B      O0D
+     H1C      C0E
+     H1D      C0T
+     H1E      C0T
+     H1F      C0T
+     H1G      C0W
+     H1H      N0X
+     H1I      N0X
+     H1J      O10
+     C08      C07
+     C0U      C0G
+     C0R      N0Q
+     N0S      C0R
+[impropers]
+C08   N04   C03   C05 
+C09   C08   N04   C07 
+C0B   C09   C08   N0A 
+O0D   C0B   C09   O0C 
+C0E   C02   C01   C03 
+N0M   C0J   C0I   O0K 
+C0O   N0M   C0J   H0N 
+N0Q   C0O   N0M   O0P 
+C0R   C0I   N0H   C0J 
+N0S   C0F   C0E   C0G 
+C0T   N0S   C0F   C0R 
+C0U   C01   C00   C02 
+S0V   C0U   C01   C0G 
+C0Y   C0W   S0V   N0X 
+O10   C0Y   C0W   O0Z 
+H12   C00   C01   H11 
+H13   C00   C01   H11 
+H14   C03   C02   N04 
+H15   C03   C02   N04 
+H16   C05   N04   N06 
+H17   C07   N06   C08 
+H18   C09   C08   N0A 
+H1A   N0A   C09   H19 
+H1C   C0E   C02   C0F 
+H1E   C0T   N0S   H1D 
+H1F   C0T   N0S   H1D 
+H1G   C0W   S0V   N0X 
+H1I   N0X   C0W   H1H 
+C0F   C0G   N0H   C0U 
+N0Q   C0R   C0I   N0S 
+[charge_groups]
+ C00 C01 C02 C03 N04 C05 N06 C07 C08 C09 N0A C0B O0C O0D C0E C0F C0G N0H C0I C0J O0K N0M H0N C0O O0P N0Q C0R N0S C0T C0U S0V C0W N0X C0Y O0Z O10 H11 H12 H13 H14 H15 H16 H17 H18 H19 H1A H1B H1C H1D H1E H1F H1G H1H H1I H1J
+*------------------------------------------------------------------

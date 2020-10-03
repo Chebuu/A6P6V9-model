@@ -1,0 +1,155 @@
+                                           REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE FAD A 607                 
+DBREF  3VTE A   28   545  UNP    Q8GTB6   Q8GTB6_CANSA    28    545             
+SEQRES   1 A  518  ALA ASN PRO ARG GLU ASN PHE LEU LYS CYS PHE SER LYS          
+SEQRES   2 A  518  HIS ILE PRO ASN ASN VAL ALA ASN PRO LYS LEU VAL TYR          
+SEQRES   3 A  518  THR GLN HIS ASP GLN LEU TYR MET SER ILE LEU ASN SER          
+SEQRES   4 A  518  THR ILE GLN ASN LEU ARG PHE ILE SER ASP THR THR PRO          
+SEQRES   5 A  518  LYS PRO LEU VAL ILE VAL THR PRO SER ASN ASN SER HIS          
+SEQRES   6 A  518  ILE GLN ALA THR ILE LEU CYS SER LYS LYS VAL GLY LEU          
+SEQRES   7 A  518  GLN ILE ARG THR ARG SER GLY GLY HIS ASP ALA GLU GLY          
+SEQRES   8 A  518  MET SER TYR ILE SER GLN VAL PRO PHE VAL VAL VAL ASP          
+SEQRES   9 A  518  LEU ARG ASN MET HIS SER ILE LYS ILE ASP VAL HIS SER          
+SEQRES  10 A  518  GLN THR ALA TRP VAL GLU ALA GLY ALA THR LEU GLY GLU          
+SEQRES  11 A  518  VAL TYR TYR TRP ILE ASN GLU LYS ASN GLU ASN LEU SER          
+SEQRES  12 A  518  PHE PRO GLY GLY TYR CYS PRO THR VAL GLY VAL GLY GLY          
+SEQRES  13 A  518  HIS PHE SER GLY GLY GLY TYR GLY ALA LEU MET ARG ASN          
+SEQRES  14 A  518  TYR GLY LEU ALA ALA ASP ASN ILE ILE ASP ALA HIS LEU          
+SEQRES  15 A  518  VAL ASN VAL ASP GLY LYS VAL LEU ASP ARG LYS SER MET          
+SEQRES  16 A  518  GLY GLU ASP LEU PHE TRP ALA ILE ARG GLY GLY GLY GLY          
+SEQRES  17 A  518  GLU ASN PHE GLY ILE ILE ALA ALA TRP LYS ILE LYS LEU          
+SEQRES  18 A  518  VAL ALA VAL PRO SER LYS SER THR ILE PHE SER VAL LYS          
+SEQRES  19 A  518  LYS ASN MET GLU ILE HIS GLY LEU VAL LYS LEU PHE ASN          
+SEQRES  20 A  518  LYS TRP GLN ASN ILE ALA TYR LYS TYR ASP LYS ASP LEU          
+SEQRES  21 A  518  VAL LEU MET THR HIS PHE ILE THR LYS ASN ILE THR ASP          
+SEQRES  22 A  518  ASN HIS GLY LYS ASN LYS THR THR VAL HIS GLY TYR PHE          
+SEQRES  23 A  518  SER SER ILE PHE HIS GLY GLY VAL ASP SER LEU VAL ASP          
+SEQRES  24 A  518  LEU MET ASN LYS SER PHE PRO GLU LEU GLY ILE LYS LYS          
+SEQRES  25 A  518  THR ASP CYS LYS GLU PHE SER TRP ILE ASP THR THR ILE          
+SEQRES  26 A  518  PHE TYR SER GLY VAL VAL ASN PHE ASN THR ALA ASN PHE          
+SEQRES  27 A  518  LYS LYS GLU ILE LEU LEU ASP ARG SER ALA GLY LYS LYS          
+SEQRES  28 A  518  THR ALA PHE SER ILE LYS LEU ASP TYR VAL LYS LYS PRO          
+SEQRES  29 A  518  ILE PRO GLU THR ALA MET VAL LYS ILE LEU GLU LYS LEU          
+SEQRES  30 A  518  TYR GLU GLU ASP VAL GLY ALA GLY MET TYR VAL LEU TYR          
+SEQRES  31 A  518  PRO TYR GLY GLY ILE MET GLU GLU ILE SER GLU SER ALA          
+SEQRES  32 A  518  ILE PRO PHE PRO HIS ARG ALA GLY ILE MET TYR GLU LEU          
+SEQRES  33 A  518  TRP TYR THR ALA SER TRP GLU LYS GLN GLU ASP ASN GLU          
+SEQRES  34 A  518  LYS HIS ILE ASN TRP VAL ARG SER VAL TYR ASN PHE THR          
+SEQRES  35 A  518  THR PRO TYR VAL SER GLN ASN PRO ARG LEU ALA TYR LEU          
+SEQRES  36 A  518  ASN TYR ARG ASP LEU ASP LEU GLY LYS THR ASN HIS ALA          
+SEQRES  37 A  518  SER PRO ASN ASN TYR THR GLN ALA ARG ILE TRP GLY GLU          
+SEQRES  38 A  518  LYS TYR PHE GLY LYS ASN PHE ASN ARG LEU VAL LYS VAL          
+SEQRES  39 A  518  LYS THR LYS VAL ASP PRO ASN ASN PHE PHE ARG ASN GLU          
+SEQRES  40 A  518  GLN SER ILE PRO PRO LEU PRO PRO HIS HIS HIS                  
+MODRES 3VTE ASN A   89  ASN  GLYCOSYLATION SITE                                 
+MODRES 3VTE ASN A   65  ASN  GLYCOSYLATION SITE                                 
+MODRES 3VTE ASN A  499  ASN  GLYCOSYLATION SITE                                 
+MODRES 3VTE ASN A  467  ASN  GLYCOSYLATION SITE                                 
+MODRES 3VTE ASN A  329  ASN  GLYCOSYLATION SITE                                 
+MODRES 3VTE ASN A  168  ASN  GLYCOSYLATION SITE                                 
+HET    NAG  A 601      14                                                       
+HET    NAG  A 602      14                                                       
+HET    NAG  A 603      14                                                       
+HET    NAG  A 604      14                                                       
+HET    NAG  A 605      14                                                       
+HET    NAG  A 606      14                                                       
+HET    FAD  A 607      53                                                       
+HETNAM     NAG N-ACETYL-D-GLUCOSAMINE                                           
+HETNAM     FAD FLAVIN-ADENINE DINUCLEOTIDE                                      
+FORMUL   2  NAG    6(C8 H15 N O6)                                               
+FORMUL   8  FAD    C27 H33 N9 O15 P2                                            
+FORMUL   9  HOH   *51(H2 O)                                                     
+SHEET    1   1 1 HIS A 292  HIS A 292  0
+SSBOND   1 CYS A   37    CYS A   99                          1555   1555  2.08  
+LINK         ND2 ASN A  89                 C1  NAG A 602     1555   1555  1.44  
+LINK         ND2 ASN A  65                 C1  NAG A 601     1555   1555  1.45  
+LINK         ND2 ASN A 499                 C1  NAG A 606     1555   1555  1.46  
+LINK         ND2 ASN A 467                 C1  NAG A 605     1555   1555  1.46  
+LINK         ND2 ASN A 329                 C1  NAG A 604     1555   1555  1.48  
+LINK         ND2 ASN A 168                 C1  NAG A 603     1555   1555  1.49  
+LINK         ND1 HIS A 114                 C8M FAD A 607     1555   1555  1.53  
+LINK         SG  CYS A 176                 C6  FAD A 607     1555   1555  1.88  
+CISPEP   1 ASN A  476    PRO A  477          0         0.57                     
+SITE     1 AC1  2 ASN A  65  ILE A  74                                          
+SITE     1 AC2  2 ASN A  89  SER A  91                                          
+SITE     1 AC3  3 ASN A 168  SER A 253  HOH A 811                               
+SITE     1 AC4  2 VAL A 325  ASN A 329                                          
+SITE     1 AC5  1 ASN A 467                                                     
+SITE     1 AC6  3 PRO A 497  ASN A 499  GLN A 502                               
+SITE     1 AC7 29 THR A 109  ARG A 110  SER A 111  GLY A 112                    
+SITE     2 AC7 29 GLY A 113  HIS A 114  ASP A 115  SER A 120                    
+SITE     3 AC7 29 LEU A 132  ALA A 151  TYR A 175  CYS A 176                    
+SITE     4 AC7 29 VAL A 179  GLY A 180  GLY A 182  GLY A 183                    
+SITE     5 AC7 29 HIS A 184  GLY A 189  TYR A 190  GLY A 235                    
+SITE     6 AC7 29 GLU A 236  GLY A 239  ILE A 240  ILE A 241                    
+SITE     7 AC7 29 TRP A 444  TYR A 481  ASN A 483  TYR A 484                    
+SITE     8 AC7 29 HOH A 824                                                     
+CRYST1  177.946  177.946  177.946  90.00  90.00  90.00 P 4 3 2      24          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.005620  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.005620  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.005620        0.00000                         
+ATOM      1  N   HIS A 292      64.386  44.412 -16.028  1.00 51.30           N
+ANISOU    1  N   HIS A 292     6912   6033   6543    395    113     13       N
+ATOM      2  CA  HIS A 292      63.033  44.609 -16.582  1.00 53.33           C
+ANISOU    2  CA  HIS A 292     7126   6282   6855    350    139     46       C
+ATOM      3  C   HIS A 292      62.002  44.067 -15.631  1.00 53.89           C
+ANISOU    3  C   HIS A 292     7224   6303   6946    351    189     95       C
+ATOM      4  O   HIS A 292      62.298  43.151 -14.895  1.00 54.54           O
+ANISOU    4  O   HIS A 292     7359   6350   7011    375    194     98       O
+ATOM      5  CB  HIS A 292      62.821  43.798 -17.864  1.00 53.81           C
+ANISOU    5  CB  HIS A 292     7154   6342   6949    315    106     30       C
+ATOM      6  CG  HIS A 292      63.761  44.140 -18.969  1.00 58.27           C
+ANISOU    6  CG  HIS A 292     7688   6954   7496    313     59    -16       C
+ATOM      7  ND1 HIS A 292      64.244  45.422 -19.171  1.00 62.22           N
+ANISOU    7  ND1 HIS A 292     8163   7500   7975    315     53    -30       N
+ATOM      8  CD2 HIS A 292      64.289  43.377 -19.956  1.00 61.57           C
+ANISOU    8  CD2 HIS A 292     8099   7379   7912    308     18    -50       C
+ATOM      9  CE1 HIS A 292      65.045  45.430 -20.226  1.00 61.98           C
+ANISOU    9  CE1 HIS A 292     8107   7507   7932    310     12    -68       C
+ATOM     10  NE2 HIS A 292      65.095  44.203 -20.717  1.00 64.01           N
+ANISOU   10  NE2 HIS A 292     8376   7744   8200    309     -8    -82       N
+ATOM     11  HA  HIS A 292      62.853  45.667 -16.771  1.00  0.00           H
+ATOM     12  HB2 HIS A 292      61.804  43.974 -18.215  1.00  0.00           H
+ATOM     13  HB3 HIS A 292      62.930  42.739 -17.629  1.00  0.00           H
+ATOM     14  HD1 HIS A 292      64.020  46.226 -18.602  1.00  0.00           H
+ATOM     15  HD2 HIS A 292      64.114  42.324 -20.118  1.00  0.00           H
+ATOM     16  HE1 HIS A 292      65.567  46.290 -20.618  1.00  0.00           H
+ATOM     17  HE2 HIS A 292      65.636  43.915 -21.520  1.00  0.00           H
+ATOM     18  H   HIS A 292      64.504  43.966 -15.129  1.00  0.00           H
+TER      19      HIS A 292
+ATOM     20  N   TYR A 484      60.309  65.604 -21.898  1.00 33.29           N
+ANISOU   20  N   TYR A 484     4222   4102   4322   -129     43    136       N
+ATOM     21  CA  TYR A 484      59.026  65.253 -21.305  1.00 33.71           C
+ANISOU   21  CA  TYR A 484     4259   4139   4410   -133     42    124       C
+ATOM     22  C   TYR A 484      58.211  66.543 -21.171  1.00 34.24           C
+ANISOU   22  C   TYR A 484     4311   4184   4514   -137     73    119       C
+ATOM     23  O   TYR A 484      58.068  67.086 -20.081  1.00 33.92           O
+ANISOU   23  O   TYR A 484     4269   4134   4485   -164    105    106       O
+ATOM     24  CB  TYR A 484      59.214  64.538 -19.960  1.00 33.41           C
+ANISOU   24  CB  TYR A 484     4230   4102   4361   -158     51    115       C
+ATOM     25  CG  TYR A 484      59.857  63.181 -20.101  1.00 34.72           C
+ANISOU   25  CG  TYR A 484     4413   4280   4498   -145     26    122       C
+ATOM     26  CD1 TYR A 484      59.508  62.358 -21.180  1.00 36.01           C
+ANISOU   26  CD1 TYR A 484     4573   4444   4664   -122     -6    121       C
+ATOM     27  CD2 TYR A 484      60.803  62.703 -19.174  1.00 34.33           C
+ANISOU   27  CD2 TYR A 484     4385   4244   4415   -152     35    129       C
+ATOM     28  CE1 TYR A 484      60.058  61.091 -21.363  1.00 36.42           C
+ANISOU   28  CE1 TYR A 484     4643   4501   4692   -110    -25    122       C
+ATOM     29  CE2 TYR A 484      61.380  61.426 -19.344  1.00 37.21           C
+ANISOU   29  CE2 TYR A 484     4768   4613   4755   -132     17    138       C
+ATOM     30  CZ  TYR A 484      60.988  60.619 -20.461  1.00 38.40           C
+ANISOU   30  CZ  TYR A 484     4917   4755   4915   -113    -12    132       C
+ATOM     31  OH  TYR A 484      61.487  59.345 -20.713  1.00 38.72           O
+ANISOU   31  OH  TYR A 484     4981   4795   4936    -93    -26    135       O
+ATOM     32  HA  TYR A 484      58.502  64.581 -21.985  1.00  0.00           H
+ATOM     33  HB2 TYR A 484      59.845  65.157 -19.322  1.00  0.00           H
+ATOM     34  HB3 TYR A 484      58.240  64.419 -19.484  1.00  0.00           H
+ATOM     35  HD1 TYR A 484      58.785  62.719 -21.897  1.00  0.00           H
+ATOM     36  HD2 TYR A 484      61.088  63.315 -18.331  1.00  0.00           H
+ATOM     37  HE1 TYR A 484      59.758  60.484 -22.204  1.00  0.00           H
+ATOM     38  HE2 TYR A 484      62.111  61.060 -18.638  1.00  0.00           H
+ATOM     39  HH  TYR A 484      60.765  58.712 -20.709  1.00  0.00           H
+ATOM     40  H   TYR A 484      60.509  66.565 -22.136  1.00  0.00           H
+END
