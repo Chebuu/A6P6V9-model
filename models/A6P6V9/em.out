@@ -1,0 +1,140 @@
+ DBCSR| Multiplication driver                                               BLAS
+ DBCSR| Multrec recursion limit                                              512
+ DBCSR| Multiplication stack size                                           1000
+ DBCSR| Maximum elements for images                                    UNLIMITED
+ DBCSR| Multiplicative factor virtual images                                   1
+ DBCSR| Multiplication size stacks                                             3
+
+
+  **** **** ******  **  PROGRAM STARTED AT               2020-03-12 21:58:57.512
+ ***** ** ***  *** **   PROGRAM STARTED ON                            Mac.domain
+ **    ****   ******    PROGRAM STARTED BY                              ElPatron
+ ***** **    ** ** **   PROGRAM PROCESS ID                                 12918
+  **** **  *******  **  PROGRAM STARTED IN /Users/sethmartinez/Desktop/PRJ/P/MOL
+                                           ECULAR/QCMM/experiments/A6P6V9-model
+
+ CP2K| version string:                                          CP2K version 6.1
+ CP2K| source code revision number:                                    svn:18464
+ CP2K| cp2kflags: libint fftw3 libxc no_statm_access accelerate                 
+ CP2K| is freely available from                            https://www.cp2k.org/
+ CP2K| Program compiled at                          Tue Dec 31 12:20:17 GMT 2019
+ CP2K| Program compiled on                                        Catalina.local
+ CP2K| Program compiled for                       Darwin-IntelMacintosh-gfortran
+ CP2K| Data directory path    /private/tmp/cp2k-20191231-90515-1wf6slq/cp2k-6.1/
+ CP2K| Input file name                                                    em.inp
+
+ GLOBAL| Force Environment number                                              1
+ GLOBAL| Basis set file name                                           BASIS_SET
+ GLOBAL| Potential file name                                           POTENTIAL
+ GLOBAL| MM Potential file name                                     MM_POTENTIAL
+ GLOBAL| Coordinate file name                                     complex.inpcrd
+ GLOBAL| Method name                                                        CP2K
+ GLOBAL| Project name                                                         EM
+ GLOBAL| Preferred FFT library                                             FFTW3
+ GLOBAL| Preferred diagonalization lib.                                       SL
+ GLOBAL| Run type                                                        GEO_OPT
+ GLOBAL| All-to-all communication in single precision                          F
+ GLOBAL| FFTs using library dependent lengths                                  F
+ GLOBAL| Global print level                                                  LOW
+ GLOBAL| Total number of message passing processes                             1
+ GLOBAL| Number of threads for this process                                    1
+ GLOBAL| This output is from process                                           0
+ GLOBAL| CPU model name : UNKNOWN
+
+ MEMORY| system memory details [Kb]
+ MEMORY|                        rank 0           min           max       average
+ MEMORY| MemTotal                    0             0             0             0
+ MEMORY| MemFree                     0             0             0             0
+ MEMORY| Buffers                     0             0             0             0
+ MEMORY| Cached                      0             0             0             0
+ MEMORY| Slab                        0             0             0             0
+ MEMORY| SReclaimable                0             0             0             0
+ MEMORY| MemLikelyFree               0             0             0             0
+
+
+
+                      ************* ******** ***********   
+                     ************* **********************  
+                     ****     **** ****      ***********   
+                     ******** ****  *******     ****       
+                     *******  ****   *******   ****        
+                     ****     ****       ****  ****        
+                     ****     **** **********  ****        
+                      ****     **** ********    ****       
+                     FRONTIERS IN SIMULATION TECHNOLOGY    
+                                                           
+                        C.J. Mundy, S. Balasubramanian,    
+                     Ken Bagchi, J. Hutter, Ari Seitsonen  
+                      IFW Kuo, T. Laino, J. VandeVondele   
+                                 Version 1.0               
+
+                                                           
+
+
+ EWALD| Summation is done by:                                               SPME
+ EWALD| Alpha parameter [       ANGSTROM^-1]                              0.4000
+ EWALD| Real Space Cutoff [          ANGSTROM]                            8.4348
+ EWALD| G-space max. Miller index                         80        80        80
+ EWALD| Spline interpolation order                                             6
+
+ *** WARNING in topology_amber.F:235 :: No VELOCITY information found in ***
+ *** CRD file. Ignoring BOX information. Please provide the BOX          ***
+ *** information directly from the main CP2K input!                      ***
+
+
+ *** WARNING in topology_amber.F:260 :: BOX information missing in CRD ***
+ *** file.                                                             ***
+
+
+ FORCEFIELD| WARNING: A non Critical ForceField parameter is missing! CP2K GOES!
+ FORCEFIELD| Non critical parameters are:Urey-Bradley,Torsions,Impropers, Opbends and 1-4
+ FORCEFIELD| All missing parameters will not contribute to the potential energy!
+ FORCEFIELD| Activate the print key FF_INFO to have a list of missing parameters
+
+ CHARGE_INFO| Total Charge of the Classical System:                     7.004003
+
+ SPLINE_INFO| Generating 57630 splines for NONBONDED14 interactions 
+              Due to 339 different atomic kinds
+  ...5763  ...11526  ...17289  ...23052  ...28815  ...34578  ...40341  ...46104  ...51867  ...57630
+ SPLINE_INFO| Number of unique splines computed:            496
+ SPLINE_INFO| Done
+
+ SPLINE_INFO| Generating 57630 splines for NONBONDED interactions 
+              Due to 339 different atomic kinds
+  ...5763  ...11526  ...17289  ...23052  ...28815  ...34578  ...40341  ...46104  ...51867  ...57630
+ SPLINE_INFO| Number of unique splines computed:            496
+ SPLINE_INFO| Done
+
+ *******************************************************************************
+ ***                     STARTING GEOMETRY OPTIMIZATION                      ***
+ ***                                 L-BFGS                                  ***
+ *******************************************************************************
+
+ --------------------------
+ OPTIMIZATION STEP:      1
+ --------------------------
+ WARNING| Particles:   28500   8514 at distance [au]:     0.87997849 less than:      0.95400000; increase EMAX_SPLINE.
+
+ *******************************************************************************
+ *   ___                                                                       *
+ *  /   \                                                                      *
+ * [ABORT]                                                                     *
+ *  \___/                GEOMETRY wrong or EMAX_SPLINE too small!              *
+ *    |                                                                        *
+ *  O/|                                                                        *
+ * /| |                                                                        *
+ * / \                                               fist_neighbor_lists.F:607 *
+ *******************************************************************************
+
+
+ ===== Routine Calling Stack ===== 
+
+            9 build_neighbor_lists
+            8 build_fist_neighbor_lists
+            7 list_control
+            6 fist_calc_energy_force
+            5 cp_eval_at
+            4 cp_opt_gopt_step
+            3 geoopt_lbfgs
+            2 cp_geo_opt
+            1 CP2K
