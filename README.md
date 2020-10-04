@@ -12,4 +12,3 @@ A slice of the modeled active wite residues is shown below. QC atoms are in acti
 ![](img/swissd-entrance-colored.png)
 ![](img/activesite-internal.gif)
 ![](img/activesite-clipped.gif)
-![](img/activesite-residues.gif)
