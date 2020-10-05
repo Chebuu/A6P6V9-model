@@ -7,7 +7,9 @@ Secondary structure comes from UniProt ID A6P6V9 (~85% identity 3VTE). Tertriatr
 ![](img/swissd-entrance.png)
 ![](img/swissd-entrance-colored.png)
 ![](img/activesite-internal.gif)
+
 QC atoms are found in active site residues Y484, H292, FAD, H114, C176, and the substrate MOL.
+
 ![](img/activesite-clipped.gif)
 
 ### Files
@@ -15,17 +17,16 @@ QC atoms are found in active site residues Y484, H292, FAD, H114, C176, and the 
 - H292
     - Active site residue
     - Minimized pose w/o substrate
-    - Protonated
+    - Protonated (HID)
 - Y484
     - Active site residue
     - Minimized pose w/o substrate
-    - Protonated
+    - Protonated (-OH)
 - FHC
     - FAD cofactor
     - Minimized pose w/o substrate
-    - Covalent H114
-    - Covalent C176
-    - Protonated
+    - Covalent H114, C176
+    - Protonated (semiquinone)
 - CBGA
     - Substrate
     - Hand placed active pose
